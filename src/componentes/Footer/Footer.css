@@ -1,0 +1,14 @@
+.divContenedorFooter {
+    margin-top: 10%;
+}
+
+.divFooter {
+    display: flex;
+    justify-content: space-between;
+}
+
+h1 {
+    font-size: 0.6rem;
+    margin: 2%;
+    width: 100%;
+}

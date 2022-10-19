@@ -1,0 +1,21 @@
+.DivContenedorBotones {
+    width: 45%;
+    height: 59px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    top: -2%;
+    position: relative;
+    left: 7%;
+}
+
+.ContenedorBotones {
+    display: flex;
+}
+
+button {
+    font-size: 1rem;
+    width: 35px;
+
+}
+

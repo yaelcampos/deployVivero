@@ -1,0 +1,54 @@
+.DivcontenedorCarrito {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.contenedorCarrito {
+    box-shadow: 0 19px 38px rgb(0 0 0 / 30%), 0 15px 12px rgb(0 0 0 / 22%);
+    display: flex;
+    height: 60%;
+    width: 35%;
+    flex-direction: column;
+    align-items: center;
+}
+.contenedorCarrito > p {
+    color: grey;
+    font-size: 0.7rem;
+}
+
+
+.volverAcomprar {
+    text-decoration: none;
+    width: 40%;
+    background-color: #59911a;
+    color:white;
+    text-align: center;
+}
+
+.imagenCarrito {
+    width: 20%;
+}
+.botonesCarritos {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.removeItem {
+    width: 40%;
+    background-color: #59911a;
+    color:white;
+}
+
+.btnCrearOrden {
+    width: 40%;
+    margin-top: 2%;
+    background: #59911a;
+    color:white;
+}
+
+.pisoCarrito {
+    display: contents;
+}

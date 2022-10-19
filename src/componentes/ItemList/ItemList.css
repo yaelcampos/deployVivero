@@ -1,0 +1,6 @@
+.divContenedorCardProductos {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 2%;
+    background-color: #91B967;
+}
